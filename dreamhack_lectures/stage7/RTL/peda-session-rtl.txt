@@ -1,0 +1,8 @@
+break __stack_chk_fail@plt
+break printf@plt
+break puts@plt
+break read@plt
+break setvbuf@plt
+break system@plt
+tbreak main
+
