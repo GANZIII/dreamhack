@@ -1,2 +1,7 @@
-tbreak main
+break *main+76
+break *main+76
+break *main+76
+break *main+76
+break *main+76
+break *main+76
 
